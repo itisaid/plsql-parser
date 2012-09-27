@@ -1110,6 +1110,7 @@ backtrack=true;
     |    return_statement
     |    case_statement[true]
     |    sql_statement
+	|	 explain_statement
     |    function_call
     ;
 
